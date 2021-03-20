@@ -98,6 +98,6 @@ module.exports = global.config = {
 };
 
 
-app.listen(9000, () => {
+app.listen(7000, () => {
     console.log('Server started')
 })
